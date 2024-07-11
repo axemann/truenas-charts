@@ -1,0 +1,15 @@
+icon_url: https://goauthentik.io/img/icon.png
+categories:
+  - authentication
+  - directory
+  - identity
+  - idp
+  - ldap
+  - oauth
+  - oidc
+  - proxy
+  - saml
+  - scim
+  - single-sign-on
+  - sp
+  - sso
